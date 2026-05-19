@@ -17,7 +17,8 @@ Space：取る、置く
 お客様のルート管理と色をランダムにしたこと
 
 ## 実行方法
-リポジトリ内の.exe
+実行ファイルはこちらから
+https://github.com/HARUKI-KOMACHI/COLORUP/releases
 
 制作期間：約2か月（1年次)
 
