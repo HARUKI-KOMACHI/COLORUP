@@ -2,6 +2,8 @@
 ## ゲーム概要
 お客様の色に合わせて色を混ぜ提供するゲーム
 
+https://github.com/user-attachments/assets/5375f684-cd5a-4920-adc1-8652299f0963
+
 ## 操作方法
 ### キーボード
 WASD：移動
